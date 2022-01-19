@@ -1,0 +1,56 @@
+body {
+    background-color: #CDF0F2;
+    text-align: center;
+}
+hr { background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-color:green;
+    border-width: 5px;
+    height: 1px;
+    width: 10%;
+}
+h1 {
+  margin:0px;
+  color: #66BFBF;
+}
+.my-image {
+  border-radius: 50%;
+}
+
+.bottom-container {
+  background-color: #B4FEF5;
+  height: 20px;
+}
+
+span {
+  color: blue;
+  /*background-color: red; */
+  width: 100px;
+}
+
+/*h2 { color: #66BFBF} */
+.my-image {
+  position: relative;
+  margin-left: 0px;
+  }
+.cloud {
+  postion: absolute;
+  height: 10px;
+  width:100px;
+  margin-top:0px;
+}
+.cloud-low {
+  postion: relative;
+  height: 10px; width:50px;
+  margin-right:300px;
+}
+.mountain {
+  postion: relative;
+  margin-top: 0px; margin-left:20px; width: 300px; height: 100px;
+}
+.body-table {
+  width: 700px;
+  margin: 0 auto;
+  text-align: center;
+}
